@@ -8,15 +8,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   return [
     { url: `${site.url}/`, lastModified: now, changeFrequency: "weekly", priority: 1 },
-    { url: `${site.url}/blog`, lastModified: now, changeFrequency: "daily", priority: 0.9 },
+    { url: `${site.url}/blog/`, lastModified: now, changeFrequency: "daily", priority: 0.9 },
     ...categories.map((c) => ({
-      url: `${site.url}/${c.slug}`,
+      url: `${site.url}/${c.slug}/`,
       lastModified: now,
       changeFrequency: "weekly" as const,
       priority: 0.7,
     })),
     ...articles.map((a) => ({
-      url: `${site.url}/blog/${a.slug}`,
+      url: `${site.url}/blog/${a.slug}/`,
       lastModified: new Date(a.date),
       changeFrequency: "monthly" as const,
       priority: 0.6,
