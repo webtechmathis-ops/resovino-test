@@ -1,0 +1,222 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* === Design tokens === */
+@theme {
+  /* Wine palette */
+  --color-bordeaux-50: #fbf5f6;
+  --color-bordeaux-100: #f4e4e7;
+  --color-bordeaux-200: #e9c4cb;
+  --color-bordeaux-300: #d99aa6;
+  --color-bordeaux-400: #c2697b;
+  --color-bordeaux-500: #a64759;
+  --color-bordeaux-600: #8a3447;
+  --color-bordeaux-700: #6f2939; /* primary brand */
+  --color-bordeaux-800: #5a2231;
+  --color-bordeaux-900: #4a1d2a;
+  --color-bordeaux-950: #2a0c14;
+
+  --color-marsala-50: #f9f3f1;
+  --color-marsala-100: #f0e2dd;
+  --color-marsala-200: #e0c2b9;
+  --color-marsala-300: #c9988a;
+  --color-marsala-400: #b06f5e;
+  --color-marsala-500: #964f3e; /* accent warm */
+  --color-marsala-600: #7d3f30;
+  --color-marsala-700: #623127;
+  --color-marsala-800: #4a2620;
+  --color-marsala-900: #321a17;
+
+  --color-cream-50: #fdfaf4;
+  --color-cream-100: #faf3e6; /* page bg */
+  --color-cream-200: #f3e6cf;
+  --color-cream-300: #ead4ad;
+  --color-cream-400: #dcbc83;
+
+  --color-gold-400: #d4a44a;
+  --color-gold-500: #c08a2c; /* gold accent */
+  --color-gold-600: #9a6c1f;
+
+  --color-ink-700: #2a2024;
+  --color-ink-800: #1d161a;
+  --color-ink-900: #120c10;
+
+  /* Fonts (loaded via next/font in app/layout.tsx) */
+  --font-display: var(--font-cormorant), "Cormorant Garamond", "EB Garamond", Georgia, serif;
+  --font-sans: var(--font-outfit), "Outfit", system-ui, sans-serif;
+}
+
+/* === Base layer === */
+@layer base {
+  :root {
+    color-scheme: light;
+    --bg: var(--color-cream-100);
+    --fg: var(--color-ink-800);
+    --muted: #6b5a5f;
+    --border: #e6d8c4;
+    --surface: #ffffff;
+    --surface-2: #fdfaf4;
+    --brand: var(--color-bordeaux-700);
+    --brand-fg: #ffffff;
+    --accent: var(--color-gold-500);
+  }
+
+  .dark {
+    color-scheme: dark;
+    --bg: #1a0f12;
+    --fg: #f0e2dd;
+    --muted: #b09a98;
+    --border: #3a2229;
+    --surface: #241419;
+    --surface-2: #2c181f;
+    --brand: var(--color-bordeaux-400);
+    --brand-fg: #1a0f12;
+    --accent: var(--color-gold-400);
+  }
+
+  html {
+    background-color: var(--bg);
+    color: var(--fg);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  body {
+    background-color: var(--bg);
+    color: var(--fg);
+    min-height: 100dvh;
+  }
+
+  h1, h2, h3, h4 {
+    font-family: var(--font-display);
+    font-weight: 600;
+    letter-spacing: -0.01em;
+  }
+
+  ::selection {
+    background-color: var(--color-bordeaux-700);
+    color: white;
+  }
+
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+}
+
+/* === Components === */
+@layer components {
+  .container-prose {
+    @apply mx-auto w-full max-w-[72ch] px-4 sm:px-6;
+  }
+  .container-page {
+    @apply mx-auto w-full max-w-6xl px-4 sm:px-6 lg:px-8;
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-full px-5 py-2.5 text-sm font-medium transition;
+  }
+  .btn-primary {
+    background-color: var(--brand);
+    color: var(--brand-fg);
+  }
+  .btn-primary:hover {
+    filter: brightness(1.08);
+  }
+  .btn-ghost {
+    border: 1px solid var(--border);
+    color: var(--fg);
+  }
+  .btn-ghost:hover {
+    background-color: var(--surface-2);
+  }
+
+  .surface {
+    background-color: var(--surface);
+    border: 1px solid var(--border);
+  }
+
+  .chip {
+    @apply inline-flex items-center rounded-full px-3 py-1 text-xs font-medium uppercase tracking-wider;
+    background-color: var(--surface-2);
+    color: var(--muted);
+    border: 1px solid var(--border);
+  }
+  .chip-active {
+    background-color: var(--brand);
+    color: var(--brand-fg);
+    border-color: transparent;
+  }
+
+  /* Decorative gold underline */
+  .gold-rule {
+    height: 2px;
+    width: 56px;
+    background: linear-gradient(90deg, var(--accent), transparent);
+  }
+}
+
+/* === Prose overrides for article body === */
+.prose-vino {
+  --tw-prose-body: var(--fg);
+  --tw-prose-headings: var(--fg);
+  --tw-prose-links: var(--brand);
+  --tw-prose-bold: var(--fg);
+  --tw-prose-quotes: var(--fg);
+  --tw-prose-quote-borders: var(--accent);
+  --tw-prose-counters: var(--muted);
+  --tw-prose-bullets: var(--accent);
+  --tw-prose-hr: var(--border);
+  --tw-prose-th-borders: var(--border);
+  --tw-prose-td-borders: var(--border);
+  font-size: 1.075rem;
+  line-height: 1.78;
+}
+
+.prose-vino :where(h2) {
+  font-family: var(--font-display);
+  font-size: 2rem;
+  margin-top: 2.4em;
+  margin-bottom: 0.6em;
+  position: relative;
+  padding-bottom: 0.35em;
+}
+.prose-vino :where(h2)::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 2px;
+  width: 48px;
+  background: linear-gradient(90deg, var(--accent), transparent);
+}
+.prose-vino :where(h3) {
+  font-family: var(--font-display);
+  font-size: 1.45rem;
+  margin-top: 1.6em;
+  margin-bottom: 0.5em;
+}
+.prose-vino :where(a) {
+  text-decoration: underline;
+  text-decoration-color: var(--accent);
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+}
+.prose-vino :where(blockquote) {
+  font-style: italic;
+  border-left-width: 3px;
+}
+
+/* Subtle scroll animation */
+@media (prefers-reduced-motion: no-preference) {
+  .reveal {
+    animation: reveal 0.7s ease-out both;
+  }
+  @keyframes reveal {
+    from { opacity: 0; transform: translateY(8px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+}
