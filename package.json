@@ -5,7 +5,7 @@
   "description": "ResoVino — Blog vin francophone (Next.js 14 SSG)",
   "scripts": {
     "dev": "next dev -p 3000",
-    "build": "next build",
+    "build": "next build && cp -a out/. .",
     "build:static": "next build && cp -a out/. .",
     "start": "next start -p 3000",
     "lint": "next lint",

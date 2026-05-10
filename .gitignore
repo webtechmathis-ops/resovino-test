@@ -13,6 +13,26 @@ out/
 build
 dist
 
+# static export copied to root by `pnpm build` (cp -a out/. .)
+# Anchored with leading slash so source dirs (app/blog, etc) are not affected.
+/_next/
+/index.html
+/index.txt
+/404.html
+/404/
+/blog/
+/accords/
+/cepages/
+/regions/
+/grands-crus/
+/vins-du-monde/
+/guide-debutant/
+/feed.xml
+/sitemap.xml
+/llms.txt
+/robots.txt
+/.htaccess
+
 # misc
 .DS_Store
 *.pem
