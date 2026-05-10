@@ -23,7 +23,7 @@ export function Header() {
           {categories.map((c) => (
             <Link
               key={c.slug}
-              href={`/${c.slug}`}
+              href={`/${c.slug}/`}
               className="rounded-full px-3 py-2 text-sm font-medium text-[var(--muted)] transition hover:bg-[var(--surface-2)] hover:text-[var(--fg)]"
             >
               {c.short}
@@ -33,7 +33,7 @@ export function Header() {
 
         <div className="flex items-center gap-2">
           <Link
-            href="/blog"
+            href="/blog/"
             className="hidden rounded-full px-3 py-2 text-sm font-medium text-[var(--muted)] transition hover:text-[var(--fg)] sm:inline"
           >
             Tous les articles

@@ -34,6 +34,7 @@ export const metadata: Metadata = {
   creator: site.name,
   publisher: site.name,
   robots: { index: true, follow: true },
+  icons: { icon: "/favicon.svg", shortcut: "/favicon.svg" },
   openGraph: {
     type: "website",
     locale: site.locale,

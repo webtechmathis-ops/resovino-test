@@ -19,7 +19,7 @@ export function generateMetadata({ params }: Props): Metadata {
   return buildMetadata({
     title: c.name,
     description: `${c.name} — ${c.description}`,
-    path: `/${c.slug}`,
+    path: `/${c.slug}/`,
   });
 }
 
@@ -33,7 +33,7 @@ export default function CategoryPage({ params }: Props) {
       <Breadcrumbs
         items={[
           { name: "Accueil", href: "/" },
-          { name: "Articles", href: "/blog" },
+          { name: "Articles", href: "/blog/" },
           { name: category.name },
         ]}
       />

@@ -21,7 +21,7 @@ export function generateMetadata({ params }: Props): Metadata {
   return buildMetadata({
     title: article.title,
     description: article.description,
-    path: `/blog/${article.slug}`,
+    path: `/blog/${article.slug}/`,
     image: article.image,
     type: "article",
   });
@@ -36,8 +36,8 @@ export default function ArticlePage({ params }: Props) {
 
   const crumbs = [
     { name: "Accueil", href: "/" },
-    { name: "Articles", href: "/blog" },
-    ...(category ? [{ name: category.name, href: `/${category.slug}` }] : []),
+    { name: "Articles", href: "/blog/" },
+    ...(category ? [{ name: category.name, href: `/${category.slug}/` }] : []),
     { name: article.title },
   ];
 
@@ -67,7 +67,7 @@ export default function ArticlePage({ params }: Props) {
       <header className="mx-auto mt-6 max-w-3xl text-center">
         {category && (
           <Link
-            href={`/${category.slug}`}
+            href={`/${category.slug}/`}
             className="inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-[0.18em] text-[var(--brand)]"
           >
             <span className="gold-rule" /> {category.name}
@@ -114,7 +114,7 @@ export default function ArticlePage({ params }: Props) {
         <section className="mx-auto mt-24 max-w-6xl">
           <div className="mb-8 flex items-end justify-between gap-4">
             <h2 className="font-display text-2xl font-semibold md:text-3xl">À lire ensuite</h2>
-            <Link href="/blog" className="text-sm font-medium text-[var(--brand)] hover:underline">
+            <Link href="/blog/" className="text-sm font-medium text-[var(--brand)] hover:underline">
               Tout voir →
             </Link>
           </div>

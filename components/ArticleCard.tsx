@@ -6,7 +6,7 @@ export function ArticleCard({ article, featured = false }: { article: Article; f
   const category = categoryBySlug(article.category);
   return (
     <Link
-      href={`/blog/${article.slug}`}
+      href={`/blog/${article.slug}/`}
       className={`group surface block overflow-hidden rounded-2xl transition hover:-translate-y-0.5 hover:shadow-lg ${
         featured ? "md:col-span-2" : ""
       }`}

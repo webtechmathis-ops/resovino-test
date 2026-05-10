@@ -34,10 +34,10 @@ export default function HomePage() {
             choisir et déguster mieux.
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
-            <Link href="/blog" className="btn btn-primary">
+            <Link href="/blog/" className="btn btn-primary">
               Explorer les articles
             </Link>
-            <Link href="/guide-debutant" className="btn btn-ghost">
+            <Link href="/guide-debutant/" className="btn btn-ghost">
               Commencer par le début
             </Link>
           </div>
@@ -56,7 +56,7 @@ export default function HomePage() {
           {categories.map((c) => (
             <Link
               key={c.slug}
-              href={`/${c.slug}`}
+              href={`/${c.slug}/`}
               className="surface group flex flex-col gap-3 rounded-2xl p-6 transition hover:-translate-y-0.5 hover:shadow-md"
             >
               <div className="gold-rule" />
@@ -81,7 +81,7 @@ export default function HomePage() {
               <h2 className="font-display text-3xl font-semibold md:text-4xl">Derniers articles</h2>
               <p className="mt-2 text-[var(--muted)]">Les nouveautés à lire chez ResoVino.</p>
             </div>
-            <Link href="/blog" className="text-sm font-medium text-[var(--brand)] hover:underline">
+            <Link href="/blog/" className="text-sm font-medium text-[var(--brand)] hover:underline">
               Tout voir →
             </Link>
           </div>

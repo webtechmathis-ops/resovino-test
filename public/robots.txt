@@ -35,3 +35,6 @@ Disallow: /
 
 User-agent: Meta-ExternalAgent
 Disallow: /
+
+# Fichier de description du contenu pour les LLMs
+# llms.txt: https://resovino.fr/llms.txt

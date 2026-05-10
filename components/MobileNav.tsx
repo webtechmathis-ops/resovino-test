@@ -54,7 +54,7 @@ export function MobileNav() {
 
             <nav className="flex flex-col gap-1" aria-label="Catégories">
               <Link
-                href="/blog"
+                href="/blog/"
                 onClick={() => setOpen(false)}
                 className="rounded-lg px-3 py-3 font-medium hover:bg-[var(--surface-2)]"
               >
@@ -64,7 +64,7 @@ export function MobileNav() {
               {categories.map((c) => (
                 <Link
                   key={c.slug}
-                  href={`/${c.slug}`}
+                  href={`/${c.slug}/`}
                   onClick={() => setOpen(false)}
                   className="rounded-lg px-3 py-3 hover:bg-[var(--surface-2)]"
                 >

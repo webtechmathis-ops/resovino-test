@@ -11,7 +11,7 @@ export function CategoryFilter({ active }: { active?: string }) {
       aria-label="Filtres par catégorie"
     >
       <Link
-        href="/blog"
+        href="/blog/"
         role="tab"
         aria-selected={!active}
         className={`chip whitespace-nowrap ${!active ? "chip-active" : ""}`}
@@ -21,7 +21,7 @@ export function CategoryFilter({ active }: { active?: string }) {
       {categories.map((c) => (
         <Link
           key={c.slug}
-          href={`/${c.slug}`}
+          href={`/${c.slug}/`}
           role="tab"
           aria-selected={active === c.slug}
           className={`chip whitespace-nowrap ${active === c.slug ? "chip-active" : ""}`}
