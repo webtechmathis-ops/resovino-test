@@ -13,7 +13,7 @@ export function Footer() {
           <Link href="/" className="flex items-center gap-2.5">
             <Image
               src="/resovino-logo.png"
-              width={120}
+              width={77}
               height={36}
               alt="ResoVino"
             />
