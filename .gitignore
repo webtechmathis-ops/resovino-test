@@ -32,6 +32,10 @@ dist
 /llms.txt
 /robots.txt
 /.htaccess
+/favicon.svg
+/icon.svg
+/resovino-logo.png
+/mentions-legales/
 
 # misc
 .DS_Store
