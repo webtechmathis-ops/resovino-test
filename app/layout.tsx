@@ -35,6 +35,7 @@ export const metadata: Metadata = {
   publisher: site.name,
   robots: { index: true, follow: true },
   icons: { icon: "/favicon.svg", shortcut: "/favicon.svg" },
+  other: { "linkavista": "87a2beb0e8b07c1056faf0a8146409803e56fead" },
   openGraph: {
     type: "website",
     locale: site.locale,
