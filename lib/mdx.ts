@@ -72,3 +72,13 @@ export function getRelatedArticles(article: Article, limit = 3): Article[] {
   const others = all.filter((a) => a.category !== article.category);
   return [...sameCat, ...others].slice(0, limit);
 }
+
+const CATEGORIES_DIR = path.join(process.cwd(), "content", "categories");
+
+export function getCategoryContent(slug: CategorySlug): string | null {
+  const filePath = path.join(CATEGORIES_DIR, `${slug}.mdx`);
+  if (!fs.existsSync(filePath)) return null;
+  const raw = fs.readFileSync(filePath, "utf8");
+  const { content } = matter(raw);
+  return content;
+}

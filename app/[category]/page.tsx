@@ -1,10 +1,11 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { categories, categoryBySlug, type CategorySlug } from "@/lib/site";
-import { getArticlesByCategory } from "@/lib/mdx";
+import { getArticlesByCategory, getCategoryContent } from "@/lib/mdx";
 import { ArticleCard } from "@/components/ArticleCard";
 import { CategoryFilter } from "@/components/CategoryFilter";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
+import { Mdx } from "@/components/Mdx";
 import { buildMetadata } from "@/lib/seo";
 
 type Props = { params: { category: string } };
@@ -27,6 +28,7 @@ export default function CategoryPage({ params }: Props) {
   const category = categoryBySlug(params.category);
   if (!category) notFound();
   const articles = getArticlesByCategory(category.slug as CategorySlug);
+  const guideContent = getCategoryContent(category.slug as CategorySlug);
 
   return (
     <div className="container-page py-12">
@@ -59,6 +61,14 @@ export default function CategoryPage({ params }: Props) {
         <div className="surface rounded-2xl p-10 text-center text-[var(--muted)]">
           Cette catégorie se remplit. Les articles arrivent.
         </div>
+      )}
+
+      {guideContent && (
+        <section className="mx-auto mt-20 max-w-3xl">
+          <div className="prose prose-vino max-w-none">
+            <Mdx source={guideContent} />
+          </div>
+        </section>
       )}
     </div>
   );
