@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ResoVino]]></title>
+        <description><![CDATA[Guides, régions, cépages et accords mets-vins. ResoVino vous aide à comprendre, choisir et déguster le vin avec clarté.]]></description>
+        <link>https://resovino.fr</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 13 Jul 2026 16:06:32 GMT</lastBuildDate>
+        <atom:link href="https://resovino.fr/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Mon, 13 Jul 2026 16:06:32 GMT</pubDate>
+        <copyright><![CDATA[© 2026 ResoVino]]></copyright>
+        <language><![CDATA[fr]]></language>
+        <item>
+            <title><![CDATA[Vin et tourisme en Bretagne : voyage œnologique dans le Morbihan]]></title>
+            <description><![CDATA[Découvrez le renouveau viticole breton et organisez un séjour œnotouristique dans le Morbihan : vignobles, accords mets-vins, étape à Vannes.]]></description>
+            <link>https://resovino.fr/blog/vin-tourisme-bretagne-morbihan</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/vin-tourisme-bretagne-morbihan</guid>
+            <category><![CDATA[vin Bretagne]]></category>
+            <category><![CDATA[tourisme Morbihan]]></category>
+            <category><![CDATA[vignoble breton]]></category>
+            <category><![CDATA[œnotourisme Vannes]]></category>
+            <category><![CDATA[Golfe du Morbihan]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vocabulaire de dégustation : 100 termes essentiels]]></title>
+            <description><![CDATA[Vocabulaire complet de la dégustation vin : 100 termes essentiels expliqués. Acidité, tanins, caudalie, robe, botrytis, et plus.]]></description>
+            <link>https://resovino.fr/blog/vocabulaire-degustation-vin</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/vocabulaire-degustation-vin</guid>
+            <category><![CDATA[vocabulaire vin]]></category>
+            <category><![CDATA[lexique dégustation]]></category>
+            <category><![CDATA[termes œnologie]]></category>
+            <category><![CDATA[définitions vin]]></category>
+            <category><![CDATA[comment décrire vin]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Viognier : guide du cépage de Condrieu]]></title>
+            <description><![CDATA[Viognier : origines rhodaniennes, terroirs, profil aromatique et accords. Le cépage roi de Condrieu et Château-Grillet.]]></description>
+            <link>https://resovino.fr/blog/viognier-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/viognier-guide</guid>
+            <category><![CDATA[viognier]]></category>
+            <category><![CDATA[cépage viognier]]></category>
+            <category><![CDATA[vin viognier]]></category>
+            <category><![CDATA[condrieu viognier]]></category>
+            <category><![CDATA[château-grillet]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vins des USA et Napa Valley : guide complet]]></title>
+            <description><![CDATA[Vins des USA : 410 000 ha, 4ᵉ producteur mondial. Guide complet de Napa Valley, Sonoma, Oregon, Washington State et leurs cuvées iconiques.]]></description>
+            <link>https://resovino.fr/blog/vins-usa-napa-valley</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/vins-usa-napa-valley</guid>
+            <category><![CDATA[vins usa]]></category>
+            <category><![CDATA[napa valley]]></category>
+            <category><![CDATA[sonoma]]></category>
+            <category><![CDATA[oregon pinot]]></category>
+            <category><![CDATA[screaming eagle]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vins du Sud-Ouest : Cahors, Madiran, Jurançon, Gaillac]]></title>
+            <description><![CDATA[Vins du Sud-Ouest : 50 000 ha, cépages autochtones uniques. Guide de Cahors, Madiran, Jurançon, Gaillac, Bergerac et Irouléguy.]]></description>
+            <link>https://resovino.fr/blog/vins-sud-ouest-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/vins-sud-ouest-guide</guid>
+            <category><![CDATA[vins sud-ouest]]></category>
+            <category><![CDATA[cahors]]></category>
+            <category><![CDATA[madiran]]></category>
+            <category><![CDATA[jurançon]]></category>
+            <category><![CDATA[gaillac]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vins de Savoie : guide des cépages et appellations]]></title>
+            <description><![CDATA[Vins de Savoie : 2 100 ha, 23 cépages alpins. Guide d'Apremont, Chignin-Bergeron, Mondeuse et Crémant de Savoie.]]></description>
+            <link>https://resovino.fr/blog/vins-savoie-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/vins-savoie-guide</guid>
+            <category><![CDATA[vins savoie]]></category>
+            <category><![CDATA[apremont]]></category>
+            <category><![CDATA[chignin]]></category>
+            <category><![CDATA[mondeuse]]></category>
+            <category><![CDATA[roussette savoie]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vins de Provence : au-delà du rosé, guide complet]]></title>
+            <description><![CDATA[Vins de Provence : 9 AOC, 27 000 ha, 89 % rosé. Guide complet de Bandol, Cassis, Côtes-de-Provence et autres appellations provençales.]]></description>
+            <link>https://resovino.fr/blog/vins-provence-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/vins-provence-guide</guid>
+            <category><![CDATA[vins provence]]></category>
+            <category><![CDATA[rosé provence]]></category>
+            <category><![CDATA[bandol]]></category>
+            <category><![CDATA[cassis vin]]></category>
+            <category><![CDATA[côtes provence]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vins du Portugal : Porto, Douro, Alentejo et Vinho Verde]]></title>
+            <description><![CDATA[Vins du Portugal : 195 000 ha, plus de 250 cépages autochtones. Guide complet du Porto, Douro sec, Alentejo, Bairrada et Vinho Verde.]]></description>
+            <link>https://resovino.fr/blog/vins-portugal-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/vins-portugal-guide</guid>
+            <category><![CDATA[vins portugal]]></category>
+            <category><![CDATA[porto]]></category>
+            <category><![CDATA[douro]]></category>
+            <category><![CDATA[alentejo]]></category>
+            <category><![CDATA[vinho verde]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vins naturels, bio et biodynamie : comprendre les différences]]></title>
+            <description><![CDATA[Vins bio, biodynamie et naturels : guide pratique des trois approches. Cahiers des charges, certifications, points communs et différences.]]></description>
+            <link>https://resovino.fr/blog/vins-naturels-bio-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/vins-naturels-bio-guide</guid>
+            <category><![CDATA[vin bio]]></category>
+            <category><![CDATA[vin nature]]></category>
+            <category><![CDATA[biodynamie]]></category>
+            <category><![CDATA[vin sans soufre]]></category>
+            <category><![CDATA[demeter biodyvin]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vins de Loire : de Sancerre à Muscadet]]></title>
+            <description><![CDATA[Vins de Loire : Pays Nantais, Anjou, Saumur, Touraine, Sancerre. Cépages, appellations et domaines pour comprendre le plus long vignoble de France.]]></description>
+            <link>https://resovino.fr/blog/vins-loire-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/vins-loire-guide</guid>
+            <category><![CDATA[vins de Loire]]></category>
+            <category><![CDATA[Sancerre]]></category>
+            <category><![CDATA[Muscadet]]></category>
+            <category><![CDATA[Vouvray]]></category>
+            <category><![CDATA[Chenin Sauvignon]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vins du Languedoc-Roussillon : guide des appellations]]></title>
+            <description><![CDATA[Languedoc-Roussillon : 230 000 ha, plus grand vignoble du monde. Guide des AOC Pic Saint-Loup, Faugères, Banyuls, Maury, Collioure.]]></description>
+            <link>https://resovino.fr/blog/vins-languedoc-roussillon</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/vins-languedoc-roussillon</guid>
+            <category><![CDATA[languedoc vin]]></category>
+            <category><![CDATA[roussillon vin]]></category>
+            <category><![CDATA[pic saint-loup]]></category>
+            <category><![CDATA[faugères]]></category>
+            <category><![CDATA[banyuls maury]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vins du Jura : vin jaune, vin de paille et Savagnin]]></title>
+            <description><![CDATA[Vins du Jura : 2 000 ha, 5 cépages, vin jaune et de paille. Guide complet d'Arbois, Château-Chalon, l'Étoile et Côtes du Jura.]]></description>
+            <link>https://resovino.fr/blog/vins-jura-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/vins-jura-guide</guid>
+            <category><![CDATA[vins jura]]></category>
+            <category><![CDATA[vin jaune]]></category>
+            <category><![CDATA[vin de paille]]></category>
+            <category><![CDATA[savagnin]]></category>
+            <category><![CDATA[château-chalon]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vins d'Italie : guide complet des régions et cépages]]></title>
+            <description><![CDATA[Vins d'Italie : 700 000 ha, 20 régions viticoles, 545 DOC/DOCG. Guide complet du Barolo, Brunello, Chianti, Amarone et autres.]]></description>
+            <link>https://resovino.fr/blog/vins-italie-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/vins-italie-guide</guid>
+            <category><![CDATA[vins italie]]></category>
+            <category><![CDATA[barolo]]></category>
+            <category><![CDATA[chianti]]></category>
+            <category><![CDATA[brunello]]></category>
+            <category><![CDATA[amarone valpolicella]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vins d'Espagne : guide complet des régions]]></title>
+            <description><![CDATA[Vins d'Espagne : 950 000 ha, 70 DO. Guide complet de Rioja, Ribera del Duero, Priorat, Sherry et autres régions emblématiques.]]></description>
+            <link>https://resovino.fr/blog/vins-espagne-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/vins-espagne-guide</guid>
+            <category><![CDATA[vins espagne]]></category>
+            <category><![CDATA[rioja vin]]></category>
+            <category><![CDATA[ribera duero]]></category>
+            <category><![CDATA[priorat]]></category>
+            <category><![CDATA[sherry]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vins de Corse : guide des cépages autochtones]]></title>
+            <description><![CDATA[Vins de Corse : 7 000 ha, 9 AOC, cépages uniques. Guide de Patrimonio, Ajaccio, Vermentino, Niellucciu et Sciaccarellu.]]></description>
+            <link>https://resovino.fr/blog/vins-corse-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/vins-corse-guide</guid>
+            <category><![CDATA[vins corse]]></category>
+            <category><![CDATA[patrimonio]]></category>
+            <category><![CDATA[vermentino corse]]></category>
+            <category><![CDATA[niellucciu]]></category>
+            <category><![CDATA[sciaccarellu]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vins du Chili : guide complet des vallées]]></title>
+            <description><![CDATA[Vins du Chili : 137 000 ha, 14 régions viticoles. Guide de Maipo, Colchagua, Casablanca, Aconcagua et du Carménère retrouvé.]]></description>
+            <link>https://resovino.fr/blog/vins-chili-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/vins-chili-guide</guid>
+            <category><![CDATA[vins chili]]></category>
+            <category><![CDATA[carménère]]></category>
+            <category><![CDATA[maipo]]></category>
+            <category><![CDATA[casablanca chili]]></category>
+            <category><![CDATA[colchagua]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vins du Beaujolais : guide complet des 10 crus]]></title>
+            <description><![CDATA[Vins du Beaujolais : 16 000 ha, 12 AOC dont 10 crus. Guide de Morgon, Moulin-à-Vent, Fleurie et la renaissance qualitative du Gamay.]]></description>
+            <link>https://resovino.fr/blog/vins-beaujolais-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/vins-beaujolais-guide</guid>
+            <category><![CDATA[beaujolais]]></category>
+            <category><![CDATA[morgon]]></category>
+            <category><![CDATA[moulin-à-vent]]></category>
+            <category><![CDATA[fleurie beaujolais]]></category>
+            <category><![CDATA[10 crus beaujolais]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vins d'Australie : Shiraz, Barossa et au-delà]]></title>
+            <description><![CDATA[Vins d'Australie : 146 000 ha, 65 zones viticoles. Guide de Barossa, McLaren Vale, Margaret River, Yarra Valley et Penfolds Grange.]]></description>
+            <link>https://resovino.fr/blog/vins-australie-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/vins-australie-guide</guid>
+            <category><![CDATA[vins australie]]></category>
+            <category><![CDATA[shiraz]]></category>
+            <category><![CDATA[barossa valley]]></category>
+            <category><![CDATA[penfolds grange]]></category>
+            <category><![CDATA[margaret river]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vins d'Argentine : Malbec, Mendoza et altitude]]></title>
+            <description><![CDATA[Vins d'Argentine : 215 000 ha, premier producteur sud-américain. Guide complet de Mendoza, Salta, Patagonie et du Malbec argentin.]]></description>
+            <link>https://resovino.fr/blog/vins-argentine-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/vins-argentine-guide</guid>
+            <category><![CDATA[vins argentine]]></category>
+            <category><![CDATA[malbec argentine]]></category>
+            <category><![CDATA[mendoza vin]]></category>
+            <category><![CDATA[uco valley]]></category>
+            <category><![CDATA[salta cafayate]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vins d'Alsace : guide complet des cépages et terroirs]]></title>
+            <description><![CDATA[Vins d'Alsace : 7 cépages, 51 grands crus, terroirs géologiques uniques. Guide complet du Riesling, Gewurztraminer, Pinot Gris d'Alsace.]]></description>
+            <link>https://resovino.fr/blog/vins-alsace-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/vins-alsace-guide</guid>
+            <category><![CDATA[vins alsace]]></category>
+            <category><![CDATA[alsace guide]]></category>
+            <category><![CDATA[riesling alsace]]></category>
+            <category><![CDATA[gewurztraminer]]></category>
+            <category><![CDATA[grands crus alsace]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vins d'Afrique du Sud : Stellenbosch, Pinotage et plus]]></title>
+            <description><![CDATA[Vins d'Afrique du Sud : 90 000 ha, 350 ans d'histoire viticole. Guide de Stellenbosch, Constantia, Swartland et du cépage Pinotage.]]></description>
+            <link>https://resovino.fr/blog/vins-afrique-du-sud-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/vins-afrique-du-sud-guide</guid>
+            <category><![CDATA[vins afrique du sud]]></category>
+            <category><![CDATA[stellenbosch]]></category>
+            <category><![CDATA[pinotage]]></category>
+            <category><![CDATA[swartland]]></category>
+            <category><![CDATA[constantia]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quel vin sur fondue, raclette et tartiflette ?]]></title>
+            <description><![CDATA[Vin sur cuisine savoyarde : Apremont, Chignin, Mondeuse. Guide pratique pour choisir le bon vin sur fondue, raclette, tartiflette et croziflette.]]></description>
+            <link>https://resovino.fr/blog/vin-fondue-raclette</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/vin-fondue-raclette</guid>
+            <category><![CDATA[vin fondue]]></category>
+            <category><![CDATA[vin raclette]]></category>
+            <category><![CDATA[vin tartiflette]]></category>
+            <category><![CDATA[apremont fondue]]></category>
+            <category><![CDATA[chignin raclette]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vin bio vs vin nature : comprendre les différences]]></title>
+            <description><![CDATA[Vin bio, biodynamie et vin nature : trois approches différentes. Cadres légaux, certifications et différences pratiques expliquées simplement.]]></description>
+            <link>https://resovino.fr/blog/vin-bio-nature-difference</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/vin-bio-nature-difference</guid>
+            <category><![CDATA[vin bio nature]]></category>
+            <category><![CDATA[différence vin bio nature]]></category>
+            <category><![CDATA[vin biodynamie]]></category>
+            <category><![CDATA[vin nature définition]]></category>
+            <category><![CDATA[demeter biodyvin]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Verre à vin : le guide complet]]></title>
+            <description><![CDATA[Choisir le bon verre à vin : Bordeaux, Bourgogne, tulipe, flûte. Guide pratique des formes et marques (Riedel, Zalto, Spiegelau).]]></description>
+            <link>https://resovino.fr/blog/verre-a-vin-guide-complet</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/verre-a-vin-guide-complet</guid>
+            <category><![CDATA[verre à vin]]></category>
+            <category><![CDATA[verre bordeaux]]></category>
+            <category><![CDATA[verre bourgogne]]></category>
+            <category><![CDATA[verre champagne]]></category>
+            <category><![CDATA[riedel zalto]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Température de service du vin : guide complet]]></title>
+            <description><![CDATA[Température idéale pour servir le vin : 6-9 °C pour Champagne, 8-12 °C pour blancs, 13-15 °C pour rouges légers, 16-18 °C pour rouges structurés.]]></description>
+            <link>https://resovino.fr/blog/temperature-service-vin</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/temperature-service-vin</guid>
+            <category><![CDATA[température service vin]]></category>
+            <category><![CDATA[température vin rouge]]></category>
+            <category><![CDATA[température vin blanc]]></category>
+            <category><![CDATA[température champagne]]></category>
+            <category><![CDATA[carafer vin]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Syrah : guide complet du roi des Côtes-du-Rhône Nord]]></title>
+            <description><![CDATA[Syrah : origines, terroirs, profil et accords. Le cépage de Côte-Rôtie, Hermitage, Cornas et de la Shiraz australienne.]]></description>
+            <link>https://resovino.fr/blog/syrah-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/syrah-guide</guid>
+            <category><![CDATA[syrah]]></category>
+            <category><![CDATA[cépage syrah]]></category>
+            <category><![CDATA[shiraz]]></category>
+            <category><![CDATA[côte-rôtie syrah]]></category>
+            <category><![CDATA[hermitage syrah]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sauvignon Blanc : guide complet du cépage de la Loire et Bordeaux]]></title>
+            <description><![CDATA[Sauvignon Blanc : origines, terroirs, profil aromatique. Le cépage du Sancerre, Pouilly-Fumé, Bordeaux blanc et Marlborough.]]></description>
+            <link>https://resovino.fr/blog/sauvignon-blanc-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/sauvignon-blanc-guide</guid>
+            <category><![CDATA[sauvignon blanc]]></category>
+            <category><![CDATA[cépage sauvignon]]></category>
+            <category><![CDATA[vin sauvignon]]></category>
+            <category><![CDATA[sancerre sauvignon]]></category>
+            <category><![CDATA[marlborough sauvignon]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Salon : le Champagne mono-cru, mono-cépage, mono-millésime]]></title>
+            <description><![CDATA[Salon : 1 ha au Mesnil-sur-Oger, mono-cru, mono-cépage Chardonnay, mono-millésime. Le Champagne le plus rare au monde.]]></description>
+            <link>https://resovino.fr/blog/salon-champagne-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/salon-champagne-guide</guid>
+            <category><![CDATA[salon champagne]]></category>
+            <category><![CDATA[salon le mesnil]]></category>
+            <category><![CDATA[champagne mono-cru]]></category>
+            <category><![CDATA[salon prix]]></category>
+            <category><![CDATA[salon 2012]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Domaine de la Romanée-Conti : guide complet du DRC]]></title>
+            <description><![CDATA[Domaine de la Romanée-Conti : 28 ha, 8 grands crus dont Romanée-Conti monopole. Guide complet du DRC, le sommet absolu de la Bourgogne.]]></description>
+            <link>https://resovino.fr/blog/romanee-conti-domaine</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/romanee-conti-domaine</guid>
+            <category><![CDATA[romanée-conti]]></category>
+            <category><![CDATA[domaine de la romanée-conti]]></category>
+            <category><![CDATA[drc]]></category>
+            <category><![CDATA[la tâche]]></category>
+            <category><![CDATA[richebourg vin]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rioja vs Ribera del Duero : comprendre les deux Tempranillos]]></title>
+            <description><![CDATA[Rioja vs Ribera del Duero : tradition contre modernité, deux écoles du Tempranillo. Guide comparatif des deux grandes régions rouges espagnoles.]]></description>
+            <link>https://resovino.fr/blog/rioja-ribera-del-duero-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/rioja-ribera-del-duero-guide</guid>
+            <category><![CDATA[rioja]]></category>
+            <category><![CDATA[ribera del duero]]></category>
+            <category><![CDATA[tempranillo]]></category>
+            <category><![CDATA[vega sicilia]]></category>
+            <category><![CDATA[rioja gran reserva]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Riesling : guide complet du cépage roi de l'Alsace et de la Moselle]]></title>
+            <description><![CDATA[Riesling : origines, terroirs, profil et accords. Le grand cépage blanc d'Alsace, Allemagne, Autriche, à garde exceptionnelle.]]></description>
+            <link>https://resovino.fr/blog/riesling-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/riesling-guide</guid>
+            <category><![CDATA[riesling]]></category>
+            <category><![CDATA[cépage riesling]]></category>
+            <category><![CDATA[vin riesling]]></category>
+            <category><![CDATA[alsace riesling]]></category>
+            <category><![CDATA[moselle riesling]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Premier Grand Cru Classé de Saint-Émilion : guide complet]]></title>
+            <description><![CDATA[Saint-Émilion Premier Grand Cru Classé : 14 châteaux dont Cheval Blanc et Pavie. Guide du classement révisable et de ses controverses.]]></description>
+            <link>https://resovino.fr/blog/premier-grand-cru-classe-saint-emilion</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/premier-grand-cru-classe-saint-emilion</guid>
+            <category><![CDATA[saint-émilion premier grand cru]]></category>
+            <category><![CDATA[cheval blanc]]></category>
+            <category><![CDATA[pavie]]></category>
+            <category><![CDATA[ausone]]></category>
+            <category><![CDATA[classement saint-émilion]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pinot Noir : guide complet du cépage le plus capricieux du monde]]></title>
+            <description><![CDATA[Pinot Noir : origines bourguignonnes, terroirs, profil et meilleurs vins. Le cépage des grands rouges de Bourgogne et de la Champagne.]]></description>
+            <link>https://resovino.fr/blog/pinot-noir-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/pinot-noir-guide</guid>
+            <category><![CDATA[pinot noir]]></category>
+            <category><![CDATA[cépage pinot noir]]></category>
+            <category><![CDATA[vin pinot noir]]></category>
+            <category><![CDATA[bourgogne pinot]]></category>
+            <category><![CDATA[pinot noir champagne]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pétrus : le guide du mythe de Pomerol]]></title>
+            <description><![CDATA[Pétrus : 11,5 ha, 100 % Merlot, 30 000 bouteilles/an. Guide du château le plus rare et cher de Bordeaux.]]></description>
+            <link>https://resovino.fr/blog/petrus-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/petrus-guide</guid>
+            <category><![CDATA[pétrus]]></category>
+            <category><![CDATA[petrus pomerol]]></category>
+            <category><![CDATA[pétrus prix]]></category>
+            <category><![CDATA[vin pétrus]]></category>
+            <category><![CDATA[merlot pétrus]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Œnologie : cours express en 10 étapes]]></title>
+            <description><![CDATA[Cours express d'œnologie en 10 étapes : cépage, terroir, vinification, dégustation, accords. L'essentiel pour comprendre le vin.]]></description>
+            <link>https://resovino.fr/blog/oenologie-cours-express</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/oenologie-cours-express</guid>
+            <category><![CDATA[cours œnologie]]></category>
+            <category><![CDATA[œnologie débutant]]></category>
+            <category><![CDATA[apprendre vin]]></category>
+            <category><![CDATA[œnologie express]]></category>
+            <category><![CDATA[bases vin]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Le millésime du vin : guide complet]]></title>
+            <description><![CDATA[Millésime du vin : explication, importance, lecture des tableaux. Guide pratique pour comprendre l'année et son impact sur la qualité.]]></description>
+            <link>https://resovino.fr/blog/millesime-vin-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/millesime-vin-guide</guid>
+            <category><![CDATA[millésime vin]]></category>
+            <category><![CDATA[millésime bordeaux]]></category>
+            <category><![CDATA[millésime bourgogne]]></category>
+            <category><![CDATA[année vin]]></category>
+            <category><![CDATA[tableau millésimes]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Merlot : guide complet du cépage roi de Pomerol et Saint-Émilion]]></title>
+            <description><![CDATA[Merlot : origines, terroirs, profil aromatique et accords. Découvrez le cépage rouge le plus planté en France, roi de Pomerol et Saint-Émilion.]]></description>
+            <link>https://resovino.fr/blog/merlot-guide-complet</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/merlot-guide-complet</guid>
+            <category><![CDATA[merlot]]></category>
+            <category><![CDATA[cépage merlot]]></category>
+            <category><![CDATA[vin merlot]]></category>
+            <category><![CDATA[pomerol merlot]]></category>
+            <category><![CDATA[saint-émilion merlot]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Malbec : du Cahors à l'Argentine, guide complet]]></title>
+            <description><![CDATA[Malbec : origines françaises, terroirs, vinification et accords. Du Cahors historique au Mendoza argentin, guide complet du cépage rouge.]]></description>
+            <link>https://resovino.fr/blog/malbec-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/malbec-guide</guid>
+            <category><![CDATA[malbec]]></category>
+            <category><![CDATA[cépage malbec]]></category>
+            <category><![CDATA[vin malbec]]></category>
+            <category><![CDATA[cahors malbec]]></category>
+            <category><![CDATA[argentine malbec]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Krug : la maison de Champagne grande cuvée]]></title>
+            <description><![CDATA[Krug : maison de Champagne fondée en 1843. Guide de Krug Grande Cuvée, Krug Vintage, Clos du Mesnil et Clos d'Ambonnay.]]></description>
+            <link>https://resovino.fr/blog/krug-champagne-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/krug-champagne-guide</guid>
+            <category><![CDATA[krug champagne]]></category>
+            <category><![CDATA[krug grande cuvée]]></category>
+            <category><![CDATA[krug clos du mesnil]]></category>
+            <category><![CDATA[krug vintage]]></category>
+            <category><![CDATA[champagne krug]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jacques Selosse : le pionnier des champagnes de vignerons]]></title>
+            <description><![CDATA[Jacques Selosse : domaine d'Anselme et Guillaume Selosse à Avize. Pionnier des champagnes de terroir et de la révolution des récoltants-manipulants.]]></description>
+            <link>https://resovino.fr/blog/jacques-selosse-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/jacques-selosse-guide</guid>
+            <category><![CDATA[jacques selosse]]></category>
+            <category><![CDATA[selosse champagne]]></category>
+            <category><![CDATA[anselme selosse]]></category>
+            <category><![CDATA[champagne vigneron]]></category>
+            <category><![CDATA[selosse substance]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Guigal : les La La de Côte-Rôtie (Mouline, Landonne, Turque)]]></title>
+            <description><![CDATA[Maison Guigal et les La La : Mouline, Landonne, Turque. Guide complet des Côte-Rôtie d'exception, références mondiales du Rhône Nord.]]></description>
+            <link>https://resovino.fr/blog/guigal-cote-rotie-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/guigal-cote-rotie-guide</guid>
+            <category><![CDATA[guigal]]></category>
+            <category><![CDATA[côte-rôtie guigal]]></category>
+            <category><![CDATA[la mouline]]></category>
+            <category><![CDATA[la landonne]]></category>
+            <category><![CDATA[la turque]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Grenache : guide complet du cépage du Sud par excellence]]></title>
+            <description><![CDATA[Grenache : origines espagnoles, terroirs, vinification et accords. Le cépage de Châteauneuf-du-Pape, Priorat et des vins doux naturels.]]></description>
+            <link>https://resovino.fr/blog/grenache-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/grenache-guide</guid>
+            <category><![CDATA[grenache]]></category>
+            <category><![CDATA[cépage grenache]]></category>
+            <category><![CDATA[garnacha]]></category>
+            <category><![CDATA[châteauneuf grenache]]></category>
+            <category><![CDATA[priorat grenache]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gamay : guide complet du cépage du Beaujolais]]></title>
+            <description><![CDATA[Gamay : origines, terroirs, profil aromatique. Le cépage du Beaujolais et de ses dix crus, redécouvert par les amateurs exigeants.]]></description>
+            <link>https://resovino.fr/blog/gamay-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/gamay-guide</guid>
+            <category><![CDATA[gamay]]></category>
+            <category><![CDATA[cépage gamay]]></category>
+            <category><![CDATA[vin gamay]]></category>
+            <category><![CDATA[beaujolais gamay]]></category>
+            <category><![CDATA[morgon gamay]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Domaine Leroy : la légende biodynamique de Bourgogne]]></title>
+            <description><![CDATA[Domaine Leroy : 22 ha en biodynamie depuis 1988. Lalou Bize-Leroy et ses Pinot Noir parmi les plus chers au monde.]]></description>
+            <link>https://resovino.fr/blog/domaine-leroy-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/domaine-leroy-guide</guid>
+            <category><![CDATA[domaine leroy]]></category>
+            <category><![CDATA[lalou bize-leroy]]></category>
+            <category><![CDATA[leroy bourgogne]]></category>
+            <category><![CDATA[leroy musigny]]></category>
+            <category><![CDATA[leroy chambertin]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Conservation du vin et cave : guide complet]]></title>
+            <description><![CDATA[Conserver le vin : température, humidité, lumière, vibrations. Guide complet pour cave naturelle, cave électrique et conditions optimales.]]></description>
+            <link>https://resovino.fr/blog/conservation-vin-cave</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/conservation-vin-cave</guid>
+            <category><![CDATA[conservation vin]]></category>
+            <category><![CDATA[cave à vin]]></category>
+            <category><![CDATA[cave naturelle]]></category>
+            <category><![CDATA[cave électrique]]></category>
+            <category><![CDATA[garder vin]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chenin Blanc : le cépage caméléon de la Loire]]></title>
+            <description><![CDATA[Chenin Blanc : origines, terroirs, profil. Le cépage de Vouvray, Savennières, Quarts de Chaume et de l'Afrique du Sud.]]></description>
+            <link>https://resovino.fr/blog/chenin-blanc-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/chenin-blanc-guide</guid>
+            <category><![CDATA[chenin blanc]]></category>
+            <category><![CDATA[cépage chenin]]></category>
+            <category><![CDATA[vouvray chenin]]></category>
+            <category><![CDATA[savennières]]></category>
+            <category><![CDATA[anjou chenin]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Classement de 1855 : guide complet des Grands Crus de Bordeaux]]></title>
+            <description><![CDATA[Classement de 1855 : 5 premiers grands crus, 14 deuxièmes, hiérarchie médocaine encore en vigueur. Guide complet du classement bordelais le plus prestigieux.]]></description>
+            <link>https://resovino.fr/blog/chateaux-bordeaux-classement-1855</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/chateaux-bordeaux-classement-1855</guid>
+            <category><![CDATA[classement 1855]]></category>
+            <category><![CDATA[grands crus bordeaux]]></category>
+            <category><![CDATA[premiers crus bordeaux]]></category>
+            <category><![CDATA[médoc 1855]]></category>
+            <category><![CDATA[saint-julien classés]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Château Rayas : la légende de Châteauneuf-du-Pape]]></title>
+            <description><![CDATA[Château Rayas : 13 ha à Châteauneuf-du-Pape, 100 % Grenache, vinification atypique. Guide du domaine le plus mythique du Rhône.]]></description>
+            <link>https://resovino.fr/blog/chateau-rayas-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/chateau-rayas-guide</guid>
+            <category><![CDATA[château rayas]]></category>
+            <category><![CDATA[rayas châteauneuf]]></category>
+            <category><![CDATA[rayas grenache]]></category>
+            <category><![CDATA[emmanuel reynaud]]></category>
+            <category><![CDATA[rayas prix]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Château Margaux : guide du Premier Grand Cru Classé]]></title>
+            <description><![CDATA[Château Margaux : 99 ha, premier cru classé 1855. Guide du château phare de l'appellation Margaux et de ses cuvées emblématiques.]]></description>
+            <link>https://resovino.fr/blog/chateau-margaux-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/chateau-margaux-guide</guid>
+            <category><![CDATA[château margaux]]></category>
+            <category><![CDATA[margaux premier cru]]></category>
+            <category><![CDATA[vin margaux]]></category>
+            <category><![CDATA[pavillon margaux]]></category>
+            <category><![CDATA[1855 margaux]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Château Haut-Brion : guide du plus ancien Premier Cru]]></title>
+            <description><![CDATA[Château Haut-Brion : 51 ha à Pessac-Léognan, premier cru classé 1855. Guide du plus ancien château de Bordeaux à reconnaissance internationale.]]></description>
+            <link>https://resovino.fr/blog/chateau-haut-brion-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/chateau-haut-brion-guide</guid>
+            <category><![CDATA[château haut-brion]]></category>
+            <category><![CDATA[haut-brion premier cru]]></category>
+            <category><![CDATA[pessac-léognan]]></category>
+            <category><![CDATA[haut-brion vin]]></category>
+            <category><![CDATA[1855 graves]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chardonnay : guide complet du cépage blanc le plus planté]]></title>
+            <description><![CDATA[Chardonnay : origines bourguignonnes, terroirs, vinification et accords. Le cépage du Chablis, Meursault, Montrachet et de la Champagne.]]></description>
+            <link>https://resovino.fr/blog/chardonnay-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/chardonnay-guide</guid>
+            <category><![CDATA[chardonnay]]></category>
+            <category><![CDATA[cépage chardonnay]]></category>
+            <category><![CDATA[vin chardonnay]]></category>
+            <category><![CDATA[bourgogne blanc]]></category>
+            <category><![CDATA[chablis chardonnay]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Carafage et décantation : guide complet]]></title>
+            <description><![CDATA[Carafer ou décanter ? Guide complet : aération des vins jeunes, séparation du dépôt des vieux vins, méthodes et erreurs à éviter.]]></description>
+            <link>https://resovino.fr/blog/carafage-decantation-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/carafage-decantation-guide</guid>
+            <category><![CDATA[carafer vin]]></category>
+            <category><![CDATA[décanter vin]]></category>
+            <category><![CDATA[carafage vin]]></category>
+            <category><![CDATA[décantation]]></category>
+            <category><![CDATA[aération vin]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cabernet Sauvignon : guide complet du roi des cépages rouges]]></title>
+            <description><![CDATA[Cabernet Sauvignon : origine, terroirs, vinification, accords et meilleurs vins. Le cépage roi de Bordeaux et de Napa Valley expliqué en détail.]]></description>
+            <link>https://resovino.fr/blog/cabernet-sauvignon-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/cabernet-sauvignon-guide</guid>
+            <category><![CDATA[cabernet sauvignon]]></category>
+            <category><![CDATA[cépage cabernet]]></category>
+            <category><![CDATA[vin cabernet sauvignon]]></category>
+            <category><![CDATA[bordeaux cabernet]]></category>
+            <category><![CDATA[napa cabernet]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Barolo et Barbaresco : guide des grands Nebbiolo du Piémont]]></title>
+            <description><![CDATA[Barolo et Barbaresco : guide complet des deux plus grands rouges italiens. Cépage Nebbiolo, terroirs de Langhe, traditionnels vs modernes.]]></description>
+            <link>https://resovino.fr/blog/barolo-barbaresco-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/barolo-barbaresco-guide</guid>
+            <category><![CDATA[barolo]]></category>
+            <category><![CDATA[barbaresco]]></category>
+            <category><![CDATA[nebbiolo]]></category>
+            <category><![CDATA[piémont vin]]></category>
+            <category><![CDATA[langhe vin]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Assemblage des cépages bordelais : la science et l'art]]></title>
+            <description><![CDATA[Assemblage bordelais : Cabernet Sauvignon, Merlot, Cabernet Franc, Petit Verdot, Malbec. Guide complet de la signature du vignoble girondin.]]></description>
+            <link>https://resovino.fr/blog/assemblage-cepages-bordeaux</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/assemblage-cepages-bordeaux</guid>
+            <category><![CDATA[assemblage bordeaux]]></category>
+            <category><![CDATA[cépages bordeaux]]></category>
+            <category><![CDATA[cabernet merlot]]></category>
+            <category><![CDATA[petit verdot]]></category>
+            <category><![CDATA[assemblage vin]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Domaine Armand Rousseau : référence du Pinot Noir de Gevrey]]></title>
+            <description><![CDATA[Domaine Armand Rousseau : 14 ha à Gevrey-Chambertin, 8 grands crus dont Chambertin et Clos de Bèze. Référence absolue du Pinot Noir bourguignon.]]></description>
+            <link>https://resovino.fr/blog/armand-rousseau-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/armand-rousseau-guide</guid>
+            <category><![CDATA[armand rousseau]]></category>
+            <category><![CDATA[domaine rousseau gevrey]]></category>
+            <category><![CDATA[chambertin rousseau]]></category>
+            <category><![CDATA[clos de bèze]]></category>
+            <category><![CDATA[pinot noir grand cru]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Accords vin et cuisine végétarienne : guide complet]]></title>
+            <description><![CDATA[Vins sur plats végétariens : Sauvignon sur asperges, Pinot Noir sur champignons, Riesling sur cuisine indienne. Guide complet des accords.]]></description>
+            <link>https://resovino.fr/blog/accords-vin-vegetarien</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/accords-vin-vegetarien</guid>
+            <category><![CDATA[vin végétarien]]></category>
+            <category><![CDATA[accord vin légumes]]></category>
+            <category><![CDATA[vin asperges]]></category>
+            <category><![CDATA[vin champignons]]></category>
+            <category><![CDATA[vin végétal]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Accords vin et fromages régionaux : la règle territoriale]]></title>
+            <description><![CDATA[Accords vin-fromage par région française : Comté/vin jaune, Munster/Gewurztraminer, Camembert/cidre, Roquefort/Sauternes.]]></description>
+            <link>https://resovino.fr/blog/accords-vin-fromages-regionaux</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/accords-vin-fromages-regionaux</guid>
+            <category><![CDATA[accord fromage régional]]></category>
+            <category><![CDATA[comté vin jaune]]></category>
+            <category><![CDATA[munster gewurztraminer]]></category>
+            <category><![CDATA[camembert cidre]]></category>
+            <category><![CDATA[roquefort sauternes]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Accords vin et desserts : le guide complet]]></title>
+            <description><![CDATA[Accords vin et desserts : Sauternes, Banyuls, Champagne demi-sec, Riesling SGN. Guide des mariages parfaits selon le type de dessert.]]></description>
+            <link>https://resovino.fr/blog/accords-vin-desserts</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/accords-vin-desserts</guid>
+            <category><![CDATA[accord vin dessert]]></category>
+            <category><![CDATA[vin et dessert]]></category>
+            <category><![CDATA[sauternes dessert]]></category>
+            <category><![CDATA[banyuls chocolat]]></category>
+            <category><![CDATA[champagne dessert]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Accords vin et cuisine japonaise : sushi, sashimi, ramen]]></title>
+            <description><![CDATA[Vins sur cuisine japonaise : Champagne sur sushi, Riesling sur ramen, Pinot Noir sur tataki. Guide complet par plat.]]></description>
+            <link>https://resovino.fr/blog/accords-vin-cuisine-japonaise</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/accords-vin-cuisine-japonaise</guid>
+            <category><![CDATA[vin sushi]]></category>
+            <category><![CDATA[vin japonais]]></category>
+            <category><![CDATA[vin sashimi]]></category>
+            <category><![CDATA[accord ramen]]></category>
+            <category><![CDATA[vin tempura]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Accords vin et cuisine italienne : pizza, pâtes, risotto]]></title>
+            <description><![CDATA[Accords vin et cuisine italienne : guide complet par plat. Chianti sur pâtes, Barolo sur osso buco, Lambrusco sur pizza.]]></description>
+            <link>https://resovino.fr/blog/accords-vin-cuisine-italienne</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/accords-vin-cuisine-italienne</guid>
+            <category><![CDATA[accord vin italien]]></category>
+            <category><![CDATA[vin pizza]]></category>
+            <category><![CDATA[vin pâtes]]></category>
+            <category><![CDATA[vin risotto]]></category>
+            <category><![CDATA[chianti accord]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vin et cuisine asiatique : les accords surprenants]]></title>
+            <description><![CDATA[Riesling sur le thaï, Gewurztraminer sur l'indien, Champagne sur les sushis : les accords vin-cuisine asiatique qui fonctionnent vraiment.]]></description>
+            <link>https://resovino.fr/blog/accords-vin-cuisine-asiatique</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/accords-vin-cuisine-asiatique</guid>
+            <category><![CDATA[accord vin cuisine asiatique]]></category>
+            <category><![CDATA[vin avec sushi]]></category>
+            <category><![CDATA[vin avec curry]]></category>
+            <category><![CDATA[vin avec cuisine thaï]]></category>
+            <category><![CDATA[gewurztraminer cuisine asiatique]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Accords vin et charcuterie : guide complet]]></title>
+            <description><![CDATA[Accords vin-charcuterie : Beaujolais sur saucisson, Riesling sur jambon blanc, Pinot Noir sur jambon ibérique. Guide par type de charcuterie.]]></description>
+            <link>https://resovino.fr/blog/accords-vin-charcuterie</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/accords-vin-charcuterie</guid>
+            <category><![CDATA[accord charcuterie]]></category>
+            <category><![CDATA[vin saucisson]]></category>
+            <category><![CDATA[vin jambon]]></category>
+            <category><![CDATA[vin pâté]]></category>
+            <category><![CDATA[vin jamon iberico]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Accords vin et apéritif : le guide complet]]></title>
+            <description><![CDATA[Vins d'apéritif : Champagne, Crémant, vins blancs vifs, Sherry, vermouth. Guide pratique selon l'occasion et les accompagnements.]]></description>
+            <link>https://resovino.fr/blog/accords-vin-aperitif</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/accords-vin-aperitif</guid>
+            <category><![CDATA[vin apéritif]]></category>
+            <category><![CDATA[champagne apéritif]]></category>
+            <category><![CDATA[crémant apéritif]]></category>
+            <category><![CDATA[manzanilla]]></category>
+            <category><![CDATA[vermouth]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Où acheter son vin : caviste, supermarché, en ligne ?]]></title>
+            <description><![CDATA[Comparatif des canaux d'achat de vin : caviste indépendant, grande surface, vente en ligne, foires aux vins, primeurs. Avantages, prix, conseils.]]></description>
+            <link>https://resovino.fr/blog/ou-acheter-son-vin-guide</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/ou-acheter-son-vin-guide</guid>
+            <category><![CDATA[où acheter du vin]]></category>
+            <category><![CDATA[acheter vin en ligne]]></category>
+            <category><![CDATA[caviste]]></category>
+            <category><![CDATA[foire aux vins]]></category>
+            <category><![CDATA[vente primeur]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Accords vin et poisson : au-delà du blanc sec]]></title>
+            <description><![CDATA[Champagne sur les sushis, Bandol blanc sur le loup, Pinot Noir sur le saumon : les vrais accords vin-poisson par préparation et espèce.]]></description>
+            <link>https://resovino.fr/blog/accords-vin-poisson</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/accords-vin-poisson</guid>
+            <category><![CDATA[accord vin poisson]]></category>
+            <category><![CDATA[vin avec saumon]]></category>
+            <category><![CDATA[vin avec sushi]]></category>
+            <category><![CDATA[vin avec crustacés]]></category>
+            <category><![CDATA[vin avec bouillabaisse]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vallée du Rhône : des Côtes-du-Rhône aux grands crus]]></title>
+            <description><![CDATA[Vallée du Rhône : septentrionale et méridionale, Côte-Rôtie, Hermitage, Châteauneuf-du-Pape, cépages et domaines. Le guide complet de la région.]]></description>
+            <link>https://resovino.fr/blog/vins-vallee-du-rhone</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/vins-vallee-du-rhone</guid>
+            <category><![CDATA[vins du Rhône]]></category>
+            <category><![CDATA[Côte-Rôtie]]></category>
+            <category><![CDATA[Châteauneuf-du-Pape]]></category>
+            <category><![CDATA[Hermitage]]></category>
+            <category><![CDATA[Syrah Grenache]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comment noter et classer un vin : méthode complète]]></title>
+            <description><![CDATA[Méthodes de notation des vins : grilles 20 et 100 points, fiches de dégustation, classements officiels. Apprenez à évaluer un vin de façon structurée.]]></description>
+            <link>https://resovino.fr/blog/comment-noter-classer-un-vin</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/comment-noter-classer-un-vin</guid>
+            <category><![CDATA[noter un vin]]></category>
+            <category><![CDATA[classer un vin]]></category>
+            <category><![CDATA[fiche de dégustation]]></category>
+            <category><![CDATA[notation vin 100 points]]></category>
+            <category><![CDATA[Parker Jancis Robinson]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quel vin avec quelle viande ? Le guide complet]]></title>
+            <description><![CDATA[Bœuf, agneau, volaille, gibier : les accords vin-viande de référence par mode de cuisson, avec appellations précises et raisons techniques.]]></description>
+            <link>https://resovino.fr/blog/accords-vin-viande</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/accords-vin-viande</guid>
+            <category><![CDATA[accord vin viande]]></category>
+            <category><![CDATA[vin avec boeuf]]></category>
+            <category><![CDATA[vin avec agneau]]></category>
+            <category><![CDATA[vin avec gibier]]></category>
+            <category><![CDATA[vin avec canard]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Champagne : tout savoir sur le roi des vins effervescents]]></title>
+            <description><![CDATA[Champagne : cépages, méthode champenoise, sous-régions, grandes maisons et vignerons. Le guide complet pour choisir et comprendre les bulles.]]></description>
+            <link>https://resovino.fr/blog/champagne-guide-bulles</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/champagne-guide-bulles</guid>
+            <category><![CDATA[champagne]]></category>
+            <category><![CDATA[méthode champenoise]]></category>
+            <category><![CDATA[blanc de blancs]]></category>
+            <category><![CDATA[Krug Bollinger]]></category>
+            <category><![CDATA[Côte des Blancs]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comment déguster un vin comme un pro en 5 étapes]]></title>
+            <description><![CDATA[Méthode de dégustation en 5 étapes : œil, nez, bouche, finale, conclusion. Apprenez à analyser un vin comme un sommelier sans tomber dans le jargon.]]></description>
+            <link>https://resovino.fr/blog/comment-deguster-un-vin</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/comment-deguster-un-vin</guid>
+            <category><![CDATA[déguster un vin]]></category>
+            <category><![CDATA[dégustation vin]]></category>
+            <category><![CDATA[méthode dégustation]]></category>
+            <category><![CDATA[analyse vin]]></category>
+            <category><![CDATA[sommelier débutant]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vin et chocolat : les accords qui fonctionnent vraiment]]></title>
+            <description><![CDATA[Banyuls, Maury, Porto Vintage : les vrais accords vin-chocolat reposent sur les vins doux naturels, pas sur les rouges secs tanniques.]]></description>
+            <link>https://resovino.fr/blog/accords-vin-chocolat</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/accords-vin-chocolat</guid>
+            <category><![CDATA[accord vin chocolat]]></category>
+            <category><![CDATA[vin et chocolat noir]]></category>
+            <category><![CDATA[banyuls chocolat]]></category>
+            <category><![CDATA[maury chocolat]]></category>
+            <category><![CDATA[porto chocolat]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bourgogne : comprendre les terroirs, crus et climats]]></title>
+            <description><![CDATA[Bourgogne : climats, hiérarchie des appellations, Côte de Nuits, Côte de Beaune, grands domaines et cépages. Le guide complet pour décrypter la région.]]></description>
+            <link>https://resovino.fr/blog/vins-bourgogne-terroirs</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/vins-bourgogne-terroirs</guid>
+            <category><![CDATA[vins de Bourgogne]]></category>
+            <category><![CDATA[climats Bourgogne]]></category>
+            <category><![CDATA[Côte de Nuits]]></category>
+            <category><![CDATA[grands crus]]></category>
+            <category><![CDATA[Pinot Noir Chardonnay]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rouge, blanc, rosé, pétillant : tous les types de vins expliqués]]></title>
+            <description><![CDATA[Vins rouges, blancs, rosés, effervescents, doux : un guide complet pour comprendre chaque famille, ses cépages, ses appellations et ses styles.]]></description>
+            <link>https://resovino.fr/blog/types-de-vins-guide-complet</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/types-de-vins-guide-complet</guid>
+            <category><![CDATA[types de vins]]></category>
+            <category><![CDATA[vin rouge blanc rosé]]></category>
+            <category><![CDATA[vin effervescent]]></category>
+            <category><![CDATA[vin doux]]></category>
+            <category><![CDATA[familles de vins]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Accords vin et fromage : le guide des mariages parfaits]]></title>
+            <description><![CDATA[Le mythe du rouge sur le fromage tombe : blancs, vins jaunes et liquoreux dominent. Guide complet des accords par famille de fromage.]]></description>
+            <link>https://resovino.fr/blog/accords-vin-fromage</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/accords-vin-fromage</guid>
+            <category><![CDATA[accord vin fromage]]></category>
+            <category><![CDATA[vin et fromage]]></category>
+            <category><![CDATA[vin sur plateau de fromages]]></category>
+            <category><![CDATA[fromage et vin blanc]]></category>
+            <category><![CDATA[accord roquefort sauternes]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bordeaux : guide complet des vins, appellations et châteaux]]></title>
+            <description><![CDATA[Vins de Bordeaux : rive gauche, rive droite, classement 1855, crus classés, millésimes et conseils d'achat. Tout comprendre en un seul guide.]]></description>
+            <link>https://resovino.fr/blog/vins-bordeaux-guide-complet</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/vins-bordeaux-guide-complet</guid>
+            <category><![CDATA[vins de Bordeaux]]></category>
+            <category><![CDATA[classement 1855]]></category>
+            <category><![CDATA[Saint-Émilion]]></category>
+            <category><![CDATA[Médoc]]></category>
+            <category><![CDATA[crus classés Bordeaux]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Le guide ultime du vin pour débutants]]></title>
+            <description><![CDATA[Tout ce qu'un débutant doit savoir sur le vin : cépages, régions, dégustation, achat. Un guide clair pour construire ses bases sans jargon.]]></description>
+            <link>https://resovino.fr/blog/guide-introduction-vin-debutants</link>
+            <guid isPermaLink="false">https://resovino.fr/blog/guide-introduction-vin-debutants</guid>
+            <category><![CDATA[vin pour débutant]]></category>
+            <category><![CDATA[guide vin]]></category>
+            <category><![CDATA[apprendre le vin]]></category>
+            <category><![CDATA[œnologie débutant]]></category>
+            <category><![CDATA[bases du vin]]></category>
+            <dc:creator><![CDATA[L'équipe ResoVino]]></dc:creator>
+            <pubDate>Sun, 12 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
